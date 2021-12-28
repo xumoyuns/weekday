@@ -27,7 +27,7 @@ switch (day){
         elFormResult.textContent="Yakshanba";
         break;
     default:
-        elFormResult.textContent="Iltimo 1-7 gacha bo`lgan raqamlarni kirirting"
+        elFormResult.textContent="Iltimos 1-7 gacha bo`lgan raqamlarni kirirting"
 
 }
 
